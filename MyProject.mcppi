@@ -82,7 +82,9 @@ File37=Sprintl
 File38=T6963C
 File39=Time
 File40=TouchPanel
-Count=41
+File41=ADC
+File42=Button
+Count=43
 [EXPANDED_NODES]
 Count=0
 [LIB_EXPANDED_NODES]
