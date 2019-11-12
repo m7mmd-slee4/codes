@@ -83,9 +83,11 @@ File38=Sprintl
 File39=T6963C
 File40=Time
 File41=TouchPanel
-Count=42
+File42=Sound
+Count=43
 [EXPANDED_NODES]
-Count=0
+0=AZ1111.mcppi
+Count=1
 [LIB_EXPANDED_NODES]
 0=mikroE Libraries
 1=System Libraries
